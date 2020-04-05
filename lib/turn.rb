@@ -21,6 +21,7 @@ def valid_move?(board, index)
       true
     end
   end
+<<<<<<< HEAD
 end
 
 def move(board, index, current_player = "X")
@@ -38,3 +39,5 @@ def turn(board)
     turn(board)
   end
 end
+=======
+>>>>>>> 5aaf3938e499f8e9140d149c136d28cf708e2370
